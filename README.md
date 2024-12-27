@@ -1,10 +1,15 @@
-  <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahinsa Arunodi </b></h1>
+<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahinsa Arunodi </b></h1>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhinsaAru&amp;label=Profile%20views&amp;color=b60e21&amp;style=flat" alt="Ahinsa">
+<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/AhinsaAru?label=Follow&amp;style=social" alt="Github"></a></p>
+
+
 <ul>
 <li>A passionate Front-end developer</li>
 <li>Currently learning React, Microsoft.net by my self</li>
 </ul>
-<br>
 
+<br>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <p align="center"></p>
 <ul>
